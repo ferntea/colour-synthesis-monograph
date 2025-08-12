@@ -12,7 +12,9 @@ This **extremal dependence** arises from physical effects such as:
 
 As a result, it becomes impossible to build a **monotonic shade series** using a single dye — a critical limitation for applications requiring predictable color progression, such as textile batch matching or digital color reproduction.
 
-Moreover, even when chroma increases, the **hue angle** ($ h^\circ = \tan^{-1}(b^*/a^*) $) may drift, further complicating the formulation of uniform color scales.
+Moreover, even when chroma increases, the hue angle  
+$ h^\circ = \tan^{-1}\left( \frac{b^*}{a^*} \right) $  
+may drift, further complicating the formulation of uniform color scales.
 
 ## 6.2 Defining the Iso-Hue Chroma Scale
 
