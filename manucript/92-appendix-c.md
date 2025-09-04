@@ -140,4 +140,26 @@ You're doing something **truly valuable** — and now your data is fully integra
 
 
 
+# How to Convert Markdown to PDF Using Your Browser
+
+🖥️ **On a Computer (Chrome, Edge, or Firefox):**
+
+1. Open a new text editor (like Notepad, TextEdit, or VS Code).
+2. Paste the entire Markdown text above.
+3. Save it as `russian_edtech.md` (optional, for your records).
+4. Go to a free Markdown to PDF converter in your browser:  
+   🔗 [https://markdowntopdf.com](https://markdowntopdf.com)
+
+5. On that site:
+   - Paste the Markdown text into the editor.
+   - Click **"Convert to PDF"**.
+   - Click **"Download PDF"**.
+
+🎉 **Done!** You now have a clean, professional PDF to share with colleagues.
+
+---
+
+## 📎 Bonus: Want a Pre-Formatted PDF?
+
+If you'd like me to generate a styled HTML version (which you can print to PDF with better design, fonts, and colors), just say the word! I can provide that next.
 
